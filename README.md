@@ -27,3 +27,7 @@ This is the final solo project of the Scrimba Frontend Career Path Course.
 * [REACTJS](https://react.dev/)
   
 ### What I learned
+* I made use of the useEffect() hook, to put API data into state and deal with side effects and the useState() hook, to update state objects with nested arrays of objects
+* I used conditional rendering to conditionally display the homepage/quiz page as well as the buttons.
+* The app is made responsive for all devices.
+
