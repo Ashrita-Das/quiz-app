@@ -16,7 +16,7 @@ This is the final solo project of the Scrimba Frontend Career Path Course.
 * When you finish the quiz, you get a score and you see which questions you answered correctly, and if you answered incorrectly the correct answer is displayed. Also the "check answers" button switches to the "play again" button, so you can start a new quiz.
   
 ### Screenshot
-
+![App Screenshot](https://github.com/Ashrita-Das/quiz-app/blob/master/screenshot/quizapp-screenshot.png)
 ### Links
 * Solution URL: [Github](https://github.com/Ashrita-Das/quiz-app)
 * Live Site URL: [Vercel](https://quiz-app-olive-xi.vercel.app/) 
